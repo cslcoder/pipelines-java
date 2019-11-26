@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/clovelan/MyPlayground/_apis/build/status/cslcoder.pipelines-java?branchName=master)](https://dev.azure.com/clovelan/MyPlayground/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
